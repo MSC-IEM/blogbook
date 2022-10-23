@@ -19,11 +19,11 @@ This is totally dynamic. All data are fetched on realtime using MySQL queries.
 
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
-        <img src="https://raw.githubusercontent.com/chaitak-gorai/blogbook/main/images/hacktober.svg" width="30%">
+        <img src="https://raw.githubusercontent.com/chaitak-gorai/Project-Template-Hacktoberfest22/main/Hfest-Logo-2-Color-Manga.svg" width="30%">
     </a>
 </p>
 
-<h1 align="center"> Hacktoberfest 2021 🎉</h1>
+<h1 align="center"> Hacktoberfest 2022 🎉</h1>
 
 <div align="center">
    
@@ -33,7 +33,7 @@ This is totally dynamic. All data are fetched on realtime using MySQL queries.
 <a href="https://github.com/chaitak-gorai/blogbook/blob/master/LICENSE"><img src="https://img.shields.io/github/license/chaitak-gorai/blogbook?color=2b9348" alt="License Badge"/></a>
 </div>
 
-### 🗣 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2021 challenge and earn a limited edition T-shirt.
+### 🗣 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2022 challenge and earn a limited edition T-shirt.
 
 📢 **Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four pull requests (PRs) between October 1st-31st to grab free SWAGS 🔥.**
 
